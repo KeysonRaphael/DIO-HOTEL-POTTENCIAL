@@ -1,0 +1,15 @@
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/bin/Debug/net7.0/DIO-HOTEL-POTTENCIAL
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/bin/Debug/net7.0/DIO-HOTEL-POTTENCIAL.deps.json
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/bin/Debug/net7.0/DIO-HOTEL-POTTENCIAL.runtimeconfig.json
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/bin/Debug/net7.0/DIO-HOTEL-POTTENCIAL.dll
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/bin/Debug/net7.0/DIO-HOTEL-POTTENCIAL.pdb
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.csproj.AssemblyReference.cache
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.AssemblyInfoInputs.cache
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.AssemblyInfo.cs
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.csproj.CoreCompileInputs.cache
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.dll
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/refint/DIO-HOTEL-POTTENCIAL.dll
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.pdb
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/DIO-HOTEL-POTTENCIAL.genruntimeconfig.cache
+/home/keyson/Documentos/git/DIO-HOTEL-POTTENCIAL/obj/Debug/net7.0/ref/DIO-HOTEL-POTTENCIAL.dll
